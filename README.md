@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HMFAYSAL OMEGA THEME
 
 Project name:	HMFAYSAL OMEGA THEME  
@@ -333,3 +334,7 @@ If you'd like to give me credit somewhere on your blog or tweet a shout out to [
 
 Warm Regards and Stay Creative,  
 Hossain Mohd. Faysal
+=======
+# gh-pages-repository
+gh pages repository assets.
+>>>>>>> 8664d51ec5843454ae0d32f31d54e7da270e059f
